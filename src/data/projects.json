@@ -1,0 +1,24 @@
+[
+  {
+    "title": "Portfolio website",
+    "imageSrc": "projects/port1.png",
+    "description": "Created a responsive portfolio website to showcase my projects and skills, featuring a clean design and user-friendly navigation.",
+    "skills": ["HTML", "CSS", "Java Script", "React"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Railway-Management-System",
+    "imageSrc": "projects/railway.jpeg",
+    "description": "Developed a Railway Management System to learn the latest programming languages, enhancing my skills in database management and application development.",
+    "skills": ["MySQL", "Python", "jupyter Notebook"],
+    "source": "https://github.com/Sushri0607/Railway_Management_System"
+  },
+  {
+    "title": "Unemployment-Analysis",
+    "imageSrc": "projects/un.jpg",
+    "description": "Conducted an Unemployment Analysis project using Python and data visualization tools to uncover trends and insights in employment data.",
+    "skills": [ "Python", "Jupyter Notebook"],
+    "source": "https://github.com/Sushri0607/Railway_Management_System"
+  }
+]
